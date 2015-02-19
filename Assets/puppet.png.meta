@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: b7dc7615481019d4eb1fbce44a17613f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right_hand
+    21300002: head
+    21300004: left_hand
+    21300006: right_arm
+    21300008: upper_torso
+    21300010: left_arm
+    21300012: left_leg
+    21300014: bottom_torso
+    21300016: right_leg
+    21300018: lower_torso
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: right_hand
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 725
+        width: 245
+        height: 184
+      alignment: 9
+      pivot: {x: .926971376, y: .865761817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 766
+        width: 200
+        height: 234
+      alignment: 9
+      pivot: {x: .381132662, y: .0653952584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_hand
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 723
+        width: 233
+        height: 200
+      alignment: 9
+      pivot: {x: .0923734382, y: .861325979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 590
+        width: 62
+        height: 63
+      alignment: 9
+      pivot: {x: 1.83207607, y: .450840533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upper_torso
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 461
+        width: 164
+        height: 276
+      alignment: 9
+      pivot: {x: .649477899, y: .0368552841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 617
+        width: 170
+        height: 64
+      alignment: 9
+      pivot: {x: .0663067997, y: .819998741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 27
+        width: 273
+        height: 314
+      alignment: 9
+      pivot: {x: .801835835, y: .916546583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lower_torso
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 191
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 67
+        width: 288
+        height: 287
+      alignment: 9
+      pivot: {x: .150303304, y: .914717734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
