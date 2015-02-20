@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 046615e71be197d41b04b78f6d407179
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: body
+    21300004: neck_4
+    21300006: neck_3
+    21300008: neck_2
+    21300010: neck_1
+    21300012: back_leg
+    21300014: front_leg
+    21300016: wing
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 945
+        width: 139
+        height: 236
+      alignment: 9
+      pivot: {x: .801018476, y: .872930467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 630
+        width: 615
+        height: 554
+      alignment: 9
+      pivot: {x: .530498445, y: .69272238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neck_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 869
+        width: 112
+        height: 66
+      alignment: 9
+      pivot: {x: .744762957, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neck_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 764
+        width: 116
+        height: 71
+      alignment: 9
+      pivot: {x: .748761058, y: .52032125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neck_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 618
+        width: 134
+        height: 90
+      alignment: 9
+      pivot: {x: .758414209, y: .419843882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neck_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 478
+        width: 166
+        height: 111
+      alignment: 9
+      pivot: {x: .674340606, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_leg
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 459
+        height: 72
+      alignment: 9
+      pivot: {x: .0481383726, y: .22204569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: front_leg
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 452
+        height: 71
+      alignment: 9
+      pivot: {x: .042619165, y: .266712129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wing
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 253
+        width: 406
+        height: 326
+      alignment: 9
+      pivot: {x: .131042778, y: .0569119118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
