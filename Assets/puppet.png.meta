@@ -136,12 +136,12 @@ TextureImporter:
     - name: right_leg
       rect:
         serializedVersion: 2
-        x: 599
+        x: 579
         y: 67
-        width: 288
-        height: 287
+        width: 308
+        height: 290
       alignment: 9
-      pivot: {x: .150303304, y: .914717734}
+      pivot: {x: .198976189, y: .879889846}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
